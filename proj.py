@@ -36,3 +36,5 @@ for anime in animes:
 
 print(f"Done writing {c} entries to the csv file!")
 csvfile.close()
+
+#natali: nutu vnaxe gamosavali?!?!?!?!? :00000
