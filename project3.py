@@ -33,8 +33,7 @@ for anime in animes:
         year1.append(year_status[x])
         x+=1
         print(year1)
-    
-    year2 = year1.copy()
+   
     year = ''.join(year1)
     status = []
     for i in year_status:
